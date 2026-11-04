@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Grant Webster
 
-<!--
-**GrantWebster/GrantWebster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Career Transition: Graphic Designer → Front-End → IT Infrastructure
 
-Here are some ideas to get you started:
+Former graphic designer with 8 years experience exploring tech since 2023. Started with web development, discovered my passion lies in **infrastructure and systems**. Currently building enterprise IT skills through hands-on labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔄 Evolution
+
+| Timeline | Focus |
+|----------|-------|
+| 2023–2024 | Front-end development (HTML, CSS, JavaScript) |
+| 2025 | Google IT Support Certificate + Career pivot decision |
+| 2026–Present | Active Directory, Azure, DNS, Service Desk workflows |
+
+## 🔬 Current Focus: IT Support Specialist Home Lab
+
+[Link to your lab repository](https://github.com/GrantWebster/it-support-lab-portfolio)
+
+## 📖 Certifications
+
+- ✅ Google IT Support Professional Certificate
+- 🔄 CompTIA A+ (In Progress)
+- ⏳ Microsoft 365 Certified: Fundamentals (Planned)
+
+## 🌍 Location
+
+📍 South Africa
+
+## 🤝 Open To
+
+- IT Support / Service Desk roles
+- Junior Admin positions
+- Apprenticeships and internships
+
+Feel free to connect!

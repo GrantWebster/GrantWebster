@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Grant Webster
-
-## 🎯 Career Transition: Graphic Designer → Front-End → IT Infrastructure
+# 👋 Hi, I'm Grant Webster.
 
 Former graphic designer with 8 years experience exploring tech since 2023. Started with web development, discovered my passion lies in **infrastructure and systems**. Currently building enterprise IT skills through hands-on labs.
 
-## 🔄 Evolution
+## 🎯 Career Transition: Graphic Designer → Front-End → IT Infrastructure
 
 | Timeline | Focus |
 |----------|-------|
@@ -12,21 +10,21 @@ Former graphic designer with 8 years experience exploring tech since 2023. Start
 | 2025 | Google IT Support Certificate + Career pivot decision |
 | 2026–Present | Active Directory, Azure, DNS, Service Desk workflows |
 
-## 🔬 Current Focus: IT Support Specialist Home Lab
+### 🔬 Current Focus: IT Support Specialist Home Lab
 
 [Link to your lab repository](https://github.com/GrantWebster/it-support-lab-portfolio)
 
-## 📖 Certifications
+### 📖 Certifications
 
 - ✅ Google IT Support Professional Certificate
 - 🔄 CompTIA A+ (In Progress)
 - ⏳ Microsoft 365 Certified: Fundamentals (Planned)
 
-## 🌍 Location
+#### 🌍 Location
 
 📍 South Africa
 
-## 🤝 Open To
+#### 🤝 Open To
 
 - IT Support / Service Desk roles
 - Junior Admin positions

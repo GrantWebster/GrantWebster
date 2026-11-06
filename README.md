@@ -6,6 +6,7 @@ Former graphic designer with 8 years experience exploring tech since 2023. Start
 
 | Timeline | Focus |
 |----------|-------|
+| 2013–2022 | Graphic Design + Concept Art |
 | 2023–2024 | Front-end development (HTML, CSS, JavaScript) |
 | 2025 | Google IT Support Certificate + Career pivot decision |
 | 2026–Present | Active Directory, Azure, DNS, Service Desk workflows |

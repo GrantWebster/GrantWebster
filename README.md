@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Grant Webster.
 
-Former graphic designer with 8 years experience exploring tech since 2023. Started with web development, discovered my passion lies in **infrastructure and systems**. Currently building enterprise IT skills through hands-on labs.
+Former graphic designer with 6 years experience exploring tech since 2023. Started with web development, discovered my passion lies in **infrastructure and systems**. Currently building enterprise IT skills through hands-on labs.
 
 ## 🎯 Career Transition: Graphic Designer → Front-End → IT Infrastructure
 
@@ -18,7 +18,7 @@ Former graphic designer with 8 years experience exploring tech since 2023. Start
 ### 📖 Certifications
 
 - ✅ Google IT Support Professional Certificate
-- 🔄 CompTIA A+ (In Progress)
+- 🔄 CompTIA A+ (In Progress - studying)
 - ⏳ Microsoft 365 Certified: Fundamentals (Planned)
 
 #### 🌍 Location
